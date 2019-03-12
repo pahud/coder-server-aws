@@ -106,6 +106,21 @@ Let's open the browser. Enter the `Password` in the prompt and enter the IDE.
 
 
 
+![](images/02.png)
+
+
+
+
+
+# Clean up
+
+Simply tear down the container with:
+
+```
+make clear
+```
+
+
+
 Have fun!!
 
-![](images/02.png)
